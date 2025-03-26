@@ -1,16 +1,16 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h1 align="center">Natours</h1>
+  <h1 align="center">apalit</h1>
 
   <p align="center">
     It's a travel agency landing page. Here all functionality and animation build with css like navbar, input validation design, card flip, etc.
     <br />
     <br />
-    <a href="https://natours-hrsshainik.netlify.app/">View Demo</a>
+    <a href="https://apalit-hrsshainik.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/hrshainik/natours/issues">Report Bug</a>
+    <a href="https://github.com/hrshainik/apalit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hrshainik/natours/issues">Request Feature</a>
+    <a href="https://github.com/hrshainik/apalit/issues">Request Feature</a>
   </p>
 </div>
 
@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://natours-hrsshainik.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://apalit-hrsshainik.netlify.app/)
 
 It's a travel agency landing page. Here all functionality and animation build with css like navbar, input validation design, card flip, etc.
 
@@ -72,7 +72,7 @@ Don't forget to give the project a star! Thanks again!
 
 Habibur Rahman - [@portfoilo](https://hrshainik.me) - hrsshainik@gmail.com
 
-Project Link: [https://github.com/hrshainik/natours](https://github.com/hrshainik/natours)
+Project Link: [https://github.com/hrshainik/apalit](https://github.com/hrshainik/apalit)
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
 
